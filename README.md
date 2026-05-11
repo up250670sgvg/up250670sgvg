@@ -1,4 +1,4 @@
-*Estudiante de la UPA
+* Estudiante de la UPA
 
 <!--
 **up250670sgvg/up250670sgvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
